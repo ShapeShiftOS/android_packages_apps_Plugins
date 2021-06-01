@@ -1,6 +1,6 @@
 # POSP SystemUI Plugins
 
-This repository (currently) houses 5 different SystemUI Volume Panel Plugins.
+This repository (currently) houses 6 different SystemUI Volume Panel Plugins.
 To build and use these as intended, you may need to pick some changes from POSP's [frameworks/base](https://github.com/PotatoProject/frameworks_base).
 
 Then, compile the following modules:
@@ -10,6 +10,7 @@ CompactPanel
 OreoPanel
 TiledPanel
 MiuiCompactPanel
+ShapeShiftPanel
 ```
 
 **Please refrain from altering packagenames/classpaths and Copyright headers**
