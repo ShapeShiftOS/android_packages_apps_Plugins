@@ -72,7 +72,7 @@
                     android:contentDescription="@string/accessibility_volume_settings"
                     android:soundEffectsEnabled="false"
                     android:src="@drawable/ic_bluetooth_audio"
-                    android:tint="?android:attr/textColorSecondary" />
+                    android:tint="?android:attr/textColorPrimaryInverse" />
             </FrameLayout>
         </FrameLayout>
 
